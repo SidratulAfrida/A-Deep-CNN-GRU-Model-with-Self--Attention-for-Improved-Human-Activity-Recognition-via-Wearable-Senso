@@ -1,2 +1,2 @@
 ## Human Activity Recognition (HAR) using Wearable Sensors is an approach that uses Artificial Intelligence(AI) to determine human behaviour from unprocessed or raw data produced by wearable activity trackers, such as smartwatches, mobile phones.
-The purpose of HAR is to infer the current behavior and goals of the human body through a series of observations and analyses of human behavior and its environment.
+## The purpose of HAR is to infer the current behavior and goals of the human body through a series of observations and analyses of human behavior and its environment.
